@@ -1,3 +1,6 @@
+#### 博客地址
+https://www.muaua.cn/
+
 1、全局安装vuepress
 ```
 npm install -g vuepress
